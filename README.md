@@ -23,12 +23,10 @@
 * EasyMile uses many technologies with the building and deployment of autonomous solutions offered. My research was geared towards the AI side of these technologies which most of the information I had to infer what technologies are being utilized as the data sources used for this had almost no details for me to review. For perception multiple sensors are used and AI algorithms can process the data and create an understanding of its surrounds, the models can even classify objects into catagoris to include people, other vehicles, or obsticles. The mapping technology Simultaneous Localization and Mapping (SLAM) uses AI to continually update and improve maps of its environment in near real time. The use of (SLAM) with AI, is what got me interested in this company for this case study. 
 
    >> "EasyMiles's powerful localization algorithm calculates the vehicle’s position with centimeter-level accuracy in real-time by fusing data obtained from the sensor set, comprised of:
-
-    * Lidars (Laser Detection And Ranging),
-    * Differential GPS (global positioning system) and RTK (real-time kinematic positioning),
-    * Inertial Measurement Unit (IMU),
-    * Odometry.
-
+    >* Lidars (Laser Detection And Ranging),
+    >* Differential GPS (global positioning system) and RTK (real-time kinematic positioning),
+    >* Inertial Measurement Unit (IMU),
+    >* Odometry.
     >> EasyMile’s satellite navigation technology is a multi-GNSS system that processes GLONASS as well as the original GPS. The system’s precision is enhanced by real-time Kinematic (RTK) processing. The GNSS position is also used in conjunction with information from the 3G or 4G grid, with 5G testing underway" (EasyMile).
 
     AI is also used in Human-Machine Interface (HMI) although not explicitly named in anything I found online, my assumption is this is a use of Natural language processing as discussed in our class. The company uses AI for other processing like decision making where the automous vehicle can predict the behaviour of other objects such as pedestrians and vehicles, or optimizing routes based on many external imputs such as traffic conditions, road closures, ect. The main two areas AI is used is in control systems and safety in which the AI systems can control driving based on input from multiple sensors, and also monitor for system errors to either corse correct or safely stop to mitigate risks.
